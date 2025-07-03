@@ -27,6 +27,7 @@ dependencies = [
     "lxml>=5.4.0",
     "unstructured>=0.17.2",
     "supabase>=2.15.1",
+    "mcp[cli]>=1.10.1",
 ]
 
 [project.packages]
